@@ -27,7 +27,7 @@ most upright angle (74.8°).
 ```
 - Remote Buttons on Climber Handles
 ```
-Long press: Emergency stop. 
-Short click: Direct the application screen to “Voice Control Page”. 
-Double click: Press microphone button and ready to receive commands. 
+(1) Long press: Emergency stop. 
+(2) Short click: Direct the application screen to “Voice Control Page”. 
+(3) Double click: Press microphone button and ready to receive commands. 
 ```
